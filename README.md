@@ -1,7 +1,7 @@
 # Random Forest Models
 Random Forest Models of Fast MTT Decision and Motion Estimation for Inter Coding of H.266/VVC
 
-This is the official repository of source codes, models and dataset for the paper "Fast MTT Decision and Motion Estimation for Inter Coding of H.266/VVC," submitted to IEEE Access on XXX. XX, 2020, and now in press. See the link ()
+This is the official repository of models for the paper "Fast MTT Decision and Motion Estimation for Inter Coding of H.266/VVC," submitted to IEEE Access on XXX. XX, 2020, and now in press. See the link ()
 
 Executable Files --> "Model_BT.xml" and "Model_HV.xml"
 
