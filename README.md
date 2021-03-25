@@ -1,4 +1,4 @@
-# Random-Forest-Mode
+# Random Forest Models
 Random Forest Mode of Fast MTT Decision and Motion Estimation for Inter Coding of H.266/VVC
 
 
