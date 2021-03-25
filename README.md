@@ -5,7 +5,7 @@ This is the official repository of models for the paper "Fast MTT Decision and M
 
 Executable Files --> "Model_BT.xml" and "Model_HV.xml"
 
-https://github.com/karta28533/Random-Forest-Mode/blob/main/Random%20Forest%20Mode.rar
+https://github.com/karta28533/Random-Forest-Models/blob/main/Random%20Forest%20Models.rar
 
 Model_BT.xml is a model for BT/TT
 
