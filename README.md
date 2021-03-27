@@ -19,6 +19,9 @@ https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.2.0/opencv-3.2
 Please use the following code to execute the model.
 
 cv::Ptr<cv::ml::RTrees> importXMLmodule_BT;
+
 cv::Ptr<cv::ml::RTrees> importXMLmodule_HV;
+
 importXMLmodule_BT = cv::Algorithm::load<cv::ml::RTrees>("Model_BT.xml");
+
 importXMLmodule_HV = cv::Algorithm::load<cv::ml::RTrees>("Model_HV.xml");
